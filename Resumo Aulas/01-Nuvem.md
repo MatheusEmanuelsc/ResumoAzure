@@ -95,7 +95,6 @@ Computação em nuvem é o fornecimento de serviços de TI (como servidores, arm
 
 ### **Desvantagens:**
 - **Dependência de Internet:** Sem conectividade, os serviços se tornam inacessíveis.  
-- **Segurança e Privacidade:** Pode ser difícil garantir a conformidade com normas de segurança e proteção de dados.  
 - **Lock-in do Fornecedor:** Mudar de provedor pode ser complicado e caro.  
 - **Custos Variáveis:** Se não for bem gerenciada, a nuvem pode gerar custos maiores do que uma solução local.  
 
